@@ -1,0 +1,305 @@
+,name,latitude,longitude,line
+0,Acton Town,51.502500,-0.278126,"District, Piccadilly"
+1,Acton Central,51.50883531,-0.263033174,London Overground
+2,Acton Central,51.50856013,-0.262879534,London Overground
+3,Aldgate,51.51394,-0.07537,Metropolitan
+4,Aldgate East,51.51514,-0.07178,"District, Hammersmith & City"
+5,Alperton,51.54097,-0.30061,Piccadilly
+6,Amersham,51.67435,-0.60732,Metropolitan
+7,Angel,51.53253,-0.10579,Northern
+8,Archway,51.56536,-0.13474,Northern
+9,Arnos Grove,51.61625,-0.13355,Piccadilly
+10,Arsenal,51.55847,-0.10561,Piccadilly
+11,Baker Street,51.52265,-0.15704,"Circle, Hammersmith & City"
+12,Baker Street,51.522236,-0.157080,"Bakerloo, Jubilee"
+13,Balham,51.44344113,-0.152945844,Northern
+14,Bank,51.5134047,-0.08905843,"Central, Waterloo & City"
+15,Barbican,51.520865,-0.097758,"Circle, Hammersmith & City, Metropolitan"
+16,Barking,51.54079,+0.08018,"District, Hammersmith & City"
+17,Barkingside,51.58543,+0.08854,Central
+18,Barons Court,51.490281,-0.214340,"Piccadilly, District"
+19,Battersea Power Station,51.47950,-0.14200,Northern
+20,Bayswater,51.51224,-0.187569,"Circle, District"
+21,Becontree,51.54029,+0.12620,District
+22,Belsize Park,51.55036,-0.16465,Northern
+23,Bermondsey,51.49813,-0.06350,Jubilee
+24,Bethnal Green,51.52718,-0.05504,Central
+25,Blackfriars,51.5114403,-0.10419050,"Circle, District"
+26,Blackhorse Road,51.58698,-0.04104,Victoria
+27,Bond Street,51.51461,-0.14897,"Central, Jubilee"
+28,Borough,51.50095,-0.09446,Northern
+29,Boston Manor,51.495371,-0.325573,Piccadilly
+30,Bounds Green,51.60700,-0.12418,Piccadilly
+31,Bow Road,51.52709,-0.02482,"District, Hammersmith & City"
+32,Brent Cross,51.57693,-0.21414,Northern
+33,Brixton,51.46239,-0.115421,Victoria
+34,Bromley-by-Bow,51.52466,-0.01282,"District, Hammersmith & City"
+35,Brondesbury,51.54505,-0.20297,London Overground
+36,Brondesbury Park,51.54060,-0.21093,London Overground
+37,Buckhurst Hill,51.62611,+0.04705,Central
+38,Burnt Oak,51.60300,-0.26427,Northern
+39,Caledonian Road,51.54850,-0.11802,Piccadilly
+40,Caledonian Road & Barnesbury,51.54326,-0.11544,London Overground
+41,Camden Road,51.54192,-0.13981,London Overground
+42,Camden Town,51.53930,-0.14316,Northern
+43,Canada Water,51.49787,-0.04967,East London
+44,Canary Wharf,51.50362,-0.01987,Jubilee
+45,Cannon Street,51.51141,-0.09047,"Circle, District"
+46,Canonbury,51.54822,-0.09632,London Overground
+47,Canons Park,51.60810,-0.29487,Jubilee
+48,Chalfont & Latimer,51.66822,-0.56053,Metropolitan
+49,Chalk Farm,51.54390,-0.15384,Northern
+50,Chancery Lane,51.51836,-0.11115,Central
+51,Charing Cross,51.507108,-0.122963,"Bakerloo, Northern"
+52,Chesham,51.70522733,-0.610986426,Metropolitan
+53,Chigwell,51.61795,+0.07511,Central
+54,Chiswick Park,51.49466,-0.26866,District
+55,Chorleywood,51.65429872,-0.518373353,Metropolitan
+56,City Thameslink,51.51416,-0.10335,Thameslink
+57,Clapham Common,51.46156,-0.13802,Northern
+58,Clapham North,51.46522,-0.12950,Northern
+59,Clapham South,51.45292257,-0.147562148,Northern
+60,Cockfosters,51.65117,-0.14811,Piccadilly
+61,Colindale,51.59556,-0.24996,Northern
+62,Colliers Wood,51.41823649,-0.17800983,Northern
+63,Covent Garden,51.51308,-0.12427,Piccadilly
+64,Croxley,51.64733268,-0.441479115,Metropolitan
+65,Dagenham East,51.54396,+0.16439,District
+66,Dagenham Heathway,51.54173,+0.14543,District
+67,Dalston Kingsland,51.54832,-0.07879,London Overground
+68,Debden,51.64535,+0.08364,Central
+69,Dollis Hill,51.55250,-0.23884,Jubilee
+70,Ealing Broadway,51.51482,-0.30118,"Central, District"
+71,Ealing Common,51.50997,-0.28825,"District, Piccadilly"
+72,Earl's Court,51.491521,-0.193906,"District, Piccadilly"
+73,East Acton,51.51753,-0.24827,Central
+74,East Finchley,51.5872974705487,-0.16495632312818,Northern
+75,East Ham,51.53931,+0.05260,"District, Hammersmith & City"
+76,East Putney,51.459015,-0.211138,District
+77,Eastcote,51.57676,-0.39629,"Metropolitan, Piccadilly"
+78,Edgware,51.61385,-0.27515,Northern
+79,Edgware Road (Bakerloo Line),51.519560,-0.169068,Bakerloo
+80,Edgware Road (Circle Line),51.520195,-0.166986,"Circle, District, Hammersmith & City"
+81,Elephant & Castle,51.49467,-0.10047,"Bakerloo, Northern"
+82,Elm Park,51.54969,+0.19779,District
+83,Embankment,51.50717,-0.12195,"Bakerloo, Circle, District, Northern"
+84,Epping,51.69365,+0.11495,Central
+85,Euston,51.52774,-0.13303,Northern
+86,Euston Square,51.52584,-0.13570,"Circle, Hammersmith & City, Metropolitan"
+87,Fairlop,51.59634,+0.09125,Central
+88,Farringdon,51.520362948,-0.105126482,"Circle, Hammersmith & City, Metropolitan"
+89,Farringdon,51.520086,-0.104789,"Circle, Hammersmith & City, Metropolitan"
+90,Finchley Central,51.60102,-0.19240,Northern
+91,Finchley Road,51.546701,-0.179867,"Jubilee, Metropolitan"
+92,Finchley Road and Frognal,51.54994,-0.18412,London Overground
+93,Finsbury Park,51.56498,-0.10543,"Piccadilly, Victoria"
+94,Fulham Broadway,51.48033,-0.19488,District
+95,Gants Hill,51.57649,0.06637,Central
+96,Gloucester Road,51.49408266,-0.17295341,"Circle, District, Piccadilly"
+97,Golders Green,51.57249,-0.19410,Northern
+98,Goldhawk Road,51.501248,-0.226776,Hammersmith & City
+99,Goodge Street,51.52060,-0.13441,Northern
+100,Gospel Oak,51.55597,-0.15228,London Overground
+101,Grange Hill,51.61326,+0.09258,Central
+102,Great Portland Street,51.52391,-0.14397,"Circle, Hammersmith & City, Metropolitan"
+103,Greenford,51.542346,-0.345903,Central
+104,Gunnersbury,51.49126844,-0.275554312,District
+105,Green Park,51.50674,-0.14276,"Jubilee, Piccadilly, Victoria"
+106,Hackney Central,51.54689,-0.05784,London Overground
+107,Hackney Wick,51.54348,-0.02474,London Overground
+108,Hainault,51.60288,+0.09332,Central
+109,Hammersmith (Dist&Picc Line),51.492328,-0.222825,"District, Piccadilly"
+110,Hammersmith (H&C Line),51.494190748,-0.225964953,Hammersmith & City
+111,Hampstead,51.55645,-0.17851,Northern
+112,Hampstead Heath,51.55533,-0.16656,London Overground
+113,Hanger Lane,51.5300,-0.2929,Central
+114,Harlesden,51.53628278,-0.257622488,Bakerloo
+115,Harrow & Wealdstone,51.59205973,-0.334725352,Bakerloo
+116,Harrow-on-the-Hill,51.579335,-0.337052,Metropolitan
+117,Hatton Cross,51.466988,-0.423035,Piccadilly
+118,Heathrow Terminals 1-2-3,51.4712899,-0.4527438,Piccadilly
+119,Heathrow Terminal 4,51.4594777,-0.44689658,Piccadilly
+120,Hendon Central,51.58346,-0.22653,Northern
+121,High Barnet,51.6506519031751,-0.194138165994553,Northern
+122,High Street Kensington,51.5003459144,-0.1923516640,"Circle, District"
+123,Highbury & Islington,51.54502,-0.10752,"London Overground, Victoria, Northern City"
+124,Highgate,51.57722,-0.14553,Northern
+125,Hillingdon,51.55364,-0.45062,"Metropolitan, Piccadilly"
+126,Holborn,51.51711,-0.12055,"Central, Piccadilly"
+127,Holland Park,51.50722,-0.20553,Central
+128,Holloway Road,51.55290,-0.11278,Piccadilly
+129,Homerton,51.54710,-0.04323,
+130,Hornchurch,51.55387,+0.21797,District
+131,Hounslow Central,51.471290,-0.365853,Piccadilly
+132,Hounslow East,51.473540,-0.356000,Piccadilly
+133,Hounslow West,51.473689,-0.386471,Piccadilly
+134,Hyde Park Corner,51.50313,-0.15278,Piccadilly
+135,Ickenham,51.56147,-0.44257,"Metropolitan, Piccadilly"
+136,Kennington,51.48823,-0.10587,Northern
+137,Kensal Green,51.53060655,-0.224253545,Bakerloo
+138,Kensal Rise,51.53387,-0.22145,London Overground
+139,Kensington (Olympia),51.49675,-0.20931,District
+140,Kentish Town,51.55046,-0.14067,Northern
+141,Kentish Town West,51.54776,-0.14708,London Overground
+142,Kenton,51.58173809,-0.316870809,Bakerloo
+143,Kew Gardens,51.47725641,-0.284980014,District
+144,Kilburn,51.5471715,-0.2050020,Jubilee
+145,Kilburn Park,51.53495818,-0.193963023,Bakerloo
+146,King's Cross St.Pancras,51.53057,-0.12399,"Piccadilly, Circle, Victoria, Northern, Metropolitan, Hammersmith & City"
+147,King's Cross Thameslink,51.53080,-0.12044,Thameslink
+148,Kingsbury,51.58422,-0.27880,Jubilee
+149,Knightsbridge,51.50169,-0.16030,Piccadilly
+150,Ladbroke Grove,51.517300,-0.211140,Hammersmith & City
+151,Lambeth North,51.49894,-0.11216,Bakerloo
+152,Lancaster Gate,51.512083,-0.175067,Central
+153,Latimer Road,51.513125,-0.218428,Hammersmith & City
+154,Leicester Square,51.51148,-0.12849,"Northern, Piccadilly"
+155,Leyton,51.556483,-0.005669,Central
+156,Leytonstone,51.56828,0.00739,Central
+157,Liverpool Street,51.517675,-0.0824580,Central
+158,London Bridge,51.505353,-0.084826,"Jubilee, Northern"
+159,Loughton,51.64170,+0.05583,Central
+160,Maida Vale,51.52989409,-0.185888819,Bakerloo
+161,Manor House,51.57038,-0.09601,Piccadilly
+162,Mansion House,51.51256,-0.09397,"Circle, District"
+163,Marble Arch,51.5135970,-0.15869195,Central
+164,Marylebone,51.522660,-0.162996,Bakerloo
+165,Mile End,51.525306,-0.033471,"Central, District, Hammersmith & City"
+166,Mill Hill East,51.60892,-0.20965,Northern
+167,Monument,51.510165,-0.085991,"Circle, District"
+168,Moor Park,51.62970512,-0.432070848,Metropolitan
+169,Moorgate,51.51817,-0.08859,"Northern, Circle, Hammersmith & City, Metropolitan, Northern City, Thameslink"
+170,Morden,51.40222413,-0.194599126,Northern
+171,Mornington Crescent,51.53427,-0.13901,Northern
+172,Neasden,51.55427,-0.25042,Jubilee
+173,New Cross,51.477363,-0.0338817,East London
+174,New Cross Gate,51.47585,-0.04049,East London
+175,Newbury Park,51.57565,+0.08927,Central
+176,Nine Elms,51.480000,-0.128460,Northern
+177,North Acton,51.52370,-0.26019,Central
+178,North Ealing,51.51807,-0.28838,Piccadilly
+179,North Greenwich,51.50056,+0.00360,Jubilee
+180,North Harrow,51.58503612,-0.362595264,Metropolitan
+181,North Wembley,51.56258091,-0.304072648,Bakerloo
+182,Northfields,51.499856,-0.313188,Piccadilly
+183,Northolt,51.548054,-0.368257,Central
+184,Northolt,51.548467,-0.36968,Central
+185,Northwick Park,51.57850117,-0.317857023,Metropolitan
+186,Northwood,51.61098984,-0.423584422,Metropolitan
+187,Northwood Hills,51.60043795,-0.408812575,Metropolitan
+188,Notting Hill Gate,51.509028,-0.1962847,"Central, Circle, District"
+189,Oakwood,51.64739,-0.13192,Piccadilly
+190,Old Street,51.52618,-0.08751,"Northern, Northern City"
+191,Osterley,51.481569,-0.351960,Piccadilly
+192,Oval,51.48214,-0.11284,Northern
+193,Oxford Circus,51.51517,-0.14119,"Bakerloo, Central, Victoria"
+194,Paddington,51.5151846554,-0.17553880792,"Circle, District"
+195,Paddington (H&C Line),51.519096707,-0.176968859,Hammersmith and City
+196,Park Royal,51.52671,-0.28417,Piccadilly
+197,Parsons Green,51.47488,-0.20205,District
+198,Perivale,51.536673,-0.32391,Central
+199,Piccadilly Circus,51.51022,-0.13392,"Piccadilly, Bakerloo"
+200,Pimlico,51.489081,-0.133037,Victoria
+201,Pinner,51.59270271,-0.380539158,Metropolitan
+202,Plaistow,51.53122,0.01659,"District, Hammersmith & City"
+203,Preston Road,51.57229051,-0.295813875,Metropolitan
+204,Putney Bridge,51.46868,-0.2088141,District
+205,Queen's Park,51.534179,-0.205257721,Bakerloo
+206,Queensbury,51.59437,-0.28655,Jubilee
+207,Queensway,51.510484,-0.187050,Central
+208,Ravenscourt Park,51.494190,-0.235600,District
+209,Rayners Lane,51.57534,-0.37240,"Metropolitan, Piccadilly"
+210,Redbridge,51.57618,0.04542,Central
+211,Regent's Park,51.52344,-0.14713,Bakerloo
+212,Richmond,51.46343247,-0.302033247,District
+213,Richmond,51.4632474,-0.300618047,District
+214,Rickmansworth,51.64027898,-0.473521454,Metropolitan
+215,Roding Valley,51.61691,+0.04264,Central
+216,Rotherhithe,51.50089,-0.05211,East London
+217,Royal Oak,51.519383,-0.187785,Hammersmith & City
+218,Ruislip,51.57146,-0.42157,"Metropolitan, Piccadilly"
+219,Ruislip Gardens,51.560711,-0.410587,Central
+220,Ruislip Manor,51.57349,-0.41185,"Metropolitan, Piccadilly"
+221,Russell Square,51.523243,-0.124336,Piccadilly
+222,St.James's Park,51.49971,-0.13394,"Circle, District"
+223,Seven Sisters,51.58318,-0.07495,Victoria
+224,Shadwell,51.51115,-0.05693,East London
+225,Shepherd's Bush,51.50474,-0.21881,Central
+226,Shepherd's Bush Market,51.506063,-0.226231,Hammersmith & City
+227,Sloane Square,51.49258474,-0.156090904,"Central, District"
+228,Snaresbrook,51.58002,+0.02133,Central
+229,South Acton,51.49960784,-0.270187631,London Overground
+230,South Ealing,51.500801,-0.307856,Piccadilly
+231,South Harrow,51.56461,-0.35210,Piccadilly
+232,South Kensington,51.494066,-0.172791,"Circle, District, Piccadilly"
+233,South Kenton,51.57044666,-0.308566354,Bakerloo
+234,South Ruislip,51.556795,-0.398708,Central
+235,South Wimbledon,51.41543048,-0.192262754,Northern
+236,South Woodford,51.59088,+0.02726,Central
+237,Southfields,51.444941,-0.206466,District
+238,Southgate,51.63240,-0.12765,Piccadilly
+239,Southwark,51.50384,-0.10478,Jubilee
+240,St.John's Wood,51.53472,-0.17428,Jubilee
+241,St.Paul's,51.515285,-0.097598,Central
+242,Stamford Brook,51.494935,-0.246190,District
+243,Stanmore,51.61895,-0.30241,Jubilee
+244,Stepney Green,51.521884,-0.046546,"District, Hammersmith & City"
+245,Stockwell,51.47224,-0.12270,"Northern, Victoria"
+246,Stonebridge Park,51.54402388,-0.275978856,Bakerloo
+247,Stratford,51.541208,-0.003776,"Central, Jubilee, London Overground"
+248,Stratford,51.541146,-0.002675,"Central, Jubilee, London Overground"
+249,Sudbury Hill,51.556998,-0.335949,Piccadilly
+250,Sudbury Town,51.55093,-0.31598,Piccadilly
+251,Surrey Quays,51.49365,-0.04816,"East London, Jubilee"
+252,Swiss Cottage,51.54333,-0.17436,Jubilee
+253,Temple,51.51114,-0.11341,"Circle, District"
+254,Theydon Bois,51.67246,+0.10354,Central
+255,Tooting Bec,51.43578971,-0.159635693,Northern
+256,Tooting Broadway,51.42780008,-0.167910811,Northern
+257,Tottenham Court Road,51.51640,-0.13027,"Central, Northern"
+258,Tottenham Court Road,51.51672074,-0.13093911,"Central, Northern"
+259,Tottenham Hale,51.588878,-0.059808,Victoria
+260,Totteridge & Whetstone,51.63022,-0.17917,Northern
+261,Tower Hill,51.509910,-0.076813,"Circle, District"
+262,Tufnell Park,51.55663,-0.13813,Northern
+263,Turnham Green,51.495143,-0.254060,District
+264,Turnpike Lane,51.59031,-0.10308,Piccadilly
+265,Upminster,51.55925,+0.25177,District
+266,Upminster Bridge,51.55847,+0.23509,District
+267,Upney,51.53824,+0.09998,District
+268,Upton Park,51.53514,0.03373,"District, Hammersmith & City"
+269,Uxbridge,51.54687,-0.47725,"Piccadilly, Metropolitan"
+270,Vauxhall,51.48603,-0.12369,Victoria
+271,Victoria,51.49662869,-0.14400853,"Circle, District, Victoria"
+272,Walthamstow Central,51.58293,-0.01996,Victoria
+273,Wanstead,51.57565,0.02864,Central
+274,Wapping,51.50451,-0.05607,East London
+275,Warren Street,51.52450,-0.13810,"Northern, Victoria"
+276,Warwick Avenue,51.52329728,-0.183777837,Bakerloo
+277,Waterloo,51.50322,-0.11328,"Bakerloo, Northern, Waterloo & City"
+278,Watford,51.65741058,-0.41745306,Metropolitan
+279,Wembley Central,51.55122817,-0.29577538,Bakerloo
+280,Wembley Park,51.56355598,-0.279770242,"Jubilee, Metropolitan"
+281,West Acton,51.51818,-0.28064,Central
+282,West Brompton,51.48681,-0.19475,District
+283,West Finchley,51.60922281219,-0.188711152265457,Northern
+284,West Ham,51.527917,+0.004141,"District, Hammersmith & City, Jubilee"
+285,West Hampstead,51.54678865,-0.191016868,Jubilee
+286,West Hampstead,51.54657,-0.19055,Jubilee
+287,West Hampstead,51.54755518,-0.190999685,London Overground
+288,West Hampstead,51.54716,-0.19275,London Overground
+289,West Harrow,51.5795432,-0.353144584,Metropolitan
+290,West Kensington,51.490850,-0.205320,District
+291,West Ruislip,51.569324,-0.436740,Central
+292,Westbourne Park,51.520995,-0.201778,Hammersmith & City
+293,Westminster,51.50121,-0.12489,"Circle, District, Jubilee"
+294,White City,51.512206,-0.224226,Central
+295,Whitechapel,51.51946,-0.05951,"District, East London, Hammersmith & City"
+296,Willesden Green,51.54919,-0.22106,Jubilee
+297,Willesden Junction,51.53181,-0.242350,London Overground
+298,Willesden Junction,51.53032031,-0.229378995,Bakerloo
+299,Wimbledon,51.42200,-0.20544,District
+300,Wimbledon Park,51.43391,-0.19864,District
+301,Wood Green,51.59709,-0.10939,Piccadilly
+302,Woodford,51.60582,+0.03328,Central
+303,Woodside Park,51.6181717295887,-0.185578887883903,Northern
