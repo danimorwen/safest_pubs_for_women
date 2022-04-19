@@ -6,6 +6,7 @@ import time
 from bs4 import BeautifulSoup
 from geopy.geocoders import Nominatim
 
+
 # Web Scraping for London Neighborhoods
 
 response = requests.get(
@@ -80,6 +81,7 @@ coordinates = get_geocodes(london_neighborhoods)
 # delete neighborhood without coordinates
 del coordinates["Somerstown"]
 
+
 # Collecting pubs data from Foursquare API
 
 pubs_category = "13018"
@@ -153,7 +155,8 @@ print(df.head())
 print(df.fsq_id.duplicated().value_counts())
 
 # save dataframe into csv file
-df.to_csv("city_of_london_pubs.csv")
+df.to_csv("raw-london-pubs.csv")
+
 
 # Collecting Subway and Police Data from Foursquare API
 
@@ -171,7 +174,8 @@ print(df2.head())
 print(df2.fsq_id.duplicated().value_counts())
 
 # save dataframe into csv file
-df2.to_csv("city_of_london_metro_police.csv")
+df2.to_csv("raw-london-police-station-data.csv")
+
 
 # Venues detailed data from Foursquare API
 
@@ -213,4 +217,4 @@ df3 = pd.DataFrame(list_of_venues)
 print(df3.head())
 
 # save dataframe into csv file
-df3.to_csv("pubs_rich_data.csv")
+df3.to_csv("raw-london-pubs-detailed-data.csv")

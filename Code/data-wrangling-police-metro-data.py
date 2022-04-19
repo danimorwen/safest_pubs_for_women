@@ -1,7 +1,7 @@
 # Police and Subway Data
 
 # import police and metro dataframe
-pol_sub_data = pd.read_csv("/content/city_of_london_metro_police.csv", index_col=[0])
+pol_sub_data = pd.read_csv("/content/raw-london-police-station-data.csv", index_col=[0])
 
 # copy the dataframe
 police_metro = pol_sub_data.copy()
@@ -65,4 +65,4 @@ print(police_metro.head())
 police_metro = police_metro.drop(columns=["categories", "geocodes", "location"], axis=1)
 
 # save dataframe into csv
-police_metro.to_csv("police_metro_clean.csv")
+police_metro.to_csv("data-wrangling-police_metro_clean.csv")

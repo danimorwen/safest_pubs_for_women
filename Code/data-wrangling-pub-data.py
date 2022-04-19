@@ -7,7 +7,7 @@ from geopy import Nominatim
 # Pub Core Data
 
 # import raw pub core data
-df = pd.read_csv("/content/city_of_london_pubs.csv", index_col=[0])
+df = pd.read_csv("/content/raw-london-pubs.csv", index_col=[0])
 print(df.head())
 
 # drop duplicated rows of core pub dataframe
@@ -104,12 +104,13 @@ pubs_data = pubs_data.drop(columns=["categories", "geocodes", "location"], axis=
 print(pubs_data.head())
 
 # save updated pubs dataframe into csv
-pubs_data.to_csv("pubs_data_clean_csv")
+pubs_data.to_csv("data-wrangling-pubs-data-clean.csv")
+
 
 # Pub Rich Data
 
 # import pubs detailed data dataframe
-pubs_rich = pd.read_csv("/content/pubs_rich_data.csv", index_col=[0])
+pubs_rich = pd.read_csv("/content/raw-london-pubs-detailed-data.csv", index_col=[0])
 print(pubs_rich.head())
 print(pubs_rich.info())
 
@@ -133,4 +134,4 @@ pubs_full = pubs_full.drop(columns=["categories", "geocodes", "location"])
 print(pubs_full.head())
 
 # save updated dataframe into csv
-pubs_full.to_csv("pubs_full_clean.csv")
+pubs_full.to_csv("data-wrangling-pubs-full-clean.csv")
