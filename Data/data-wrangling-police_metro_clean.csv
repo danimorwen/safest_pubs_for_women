@@ -1,0 +1,182 @@
+,fsq_id,name,address,locality,neighborhood,postcode,category,latitude,longitude
+0,4d6e854c2e6ea09398fe1e50,Acton Police Station,250 High St,Acton,Acton,W3 9BH,Police Station,51.508535,-0.274953
+1,4c99b383eaa5a143b7eec5e4,Bishopsgate Police Station,182 Bishopsgate,London,Spitalfields,EC2M 4NP,Police Station,51.51762,-0.08011
+2,838a9a92b3244f53520eb6b7,British Transport Police,"Bishopsgate Police Station, 182 Bishopsgate",London,Whitechapel,EC2M 4NP,Police Station,51.517735,-0.079948
+3,4ae9d672f964a520eeb621e3,Temple London Underground Station,Victoria Embankment,Temple,,WC2R 2PH,Metro Station,51.510996,-0.113627
+4,6118a7a7533844f4df964ca3,The Civil Justice Council,,London,,WC2A 2LL,Police Station,51.513601,-0.114607
+5,d045b823812e486e28bc8834,Calder UK,2 Arundel St,London,,WC2R 3AZ,Police Station,51.511783,-0.114156
+6,4c37413a2c8020a135a38800,Islington Police Station,2 Tolpuddle St,Islington,Islington,N1 0YY,Police Station,51.53394,-0.111027
+7,4cc5c23d01fb236add87b3ba,Snow Hill Police Station,5 Snow Hill,London,Smithfield,EC1A 2DP,Police Station,51.517066,-0.102792
+8,4db0450e6e81a2637ed5c793,Wood Street Police Station,37 Wood St,London,,EC2P 2NQ,Police Station,51.517114,-0.093514
+9,4acf6ff6f964a520a6d320e3,Bayswater Underground Station,Queensway,London,,W2 4QH,Metro Station,51.512475,-0.187828
+10,0541a0913fc14eceeddf724b,Queensway Station,Bayswater Rd,London,Bayswater,W2 4SS,Metro Station,51.510438,-0.187415
+11,4ad10c3bf964a52039dc20e3,Turnham Green London Underground Station,Turnham Green Terrace,London,,W4 1LR,Metro Station,51.495165,-0.254585
+12,28b168fd1a644c309be5f171,Pavilion Road,"Snt Base, 77-83 Pavilion Rd",London,,SW1X 0ET,Police Station,51.498363,-0.159762
+13,6619571df9434faa77d85135,Metropolitan Police Service,77-83 Pavilion Rd,London,Knightsbridge,SW1X 0ET,Police Station,51.498572,-0.159909
+14,4c59937c6407d13ad67cb228,Bethnal Green Police Station,12 Victoria Park Square,London,,E2 9NZ,Police Station,51.528184,-0.053619
+15,4ad6557df964a520a10621e3,Bethnal Green London Underground Station,Cambridge Heath Rd,London,,E2 0ET,Metro Station,51.527243,-0.055292
+16,18cb644030804920a937a868,Probation Trust,377 Cambridge Heath Rd,London,Bethnal Green,E2 9RD,Police Station,51.53022,-0.056408
+17,4f427fa5e4b0f6acbd71568d,Blackfriars London Underground Station,179 Queen Victoria St,London,,EC4V 4DD,Metro Station,51.51155,-0.10395
+18,8d971ac72965482084b6aaa1,Constable & Robinson,100 Victoria Embankment,London,,EC4Y 0DY,Police Station,51.511656,-0.105168
+19,51c9070620e14a6c9e3c1562,British Transport Police,212 Poplar High St,London,Poplar,E14 0BB,Police Station,51.508789,-0.012797
+20,4d385fed6eef548121174048,British Transport Police,16-24 Whitfield St,London,Fitzrovia,W1T 2RA,Police Station,51.519573,-0.134056
+21,79c88aaf347a4ee9ae71a44e,The Probation Service,"Glen House, 200-208 Tottenham Ct",London,West Central,W1T 7PL,Police Station,51.520656,-0.134039
+22,4bcd85ab8920b7134ace9fdc,Bow Police Station,111-117 Bow Rd,London,Bow,E3 2AN,Police Station,51.527708,-0.023596
+23,8bd098a771854c796686a74f,Brockley Police Station,4 Howson Rd,London,Lewisham,SE4 2AS,Police Station,51.461113,-0.03727
+24,4c101f47ce640f472e723952,Bromley Police Station,High St,Bromley,Shortlands,BR1 1ER,Police Station,51.399391,0.017381
+25,2bd95b7a2c32485951ba31c0,Community Safety Unit,"Bromley Police Station, High St",Bromley,Bromley,BR1 1ER,Police Station,51.399493,0.017261
+26,9304683783ac479909defd3a,Metropolitan Police Service,22a Camberwell Church St,London,Camberwell,SE5 8QU,Police Station,51.473936,-0.091399
+27,fbdf552016024bb2609b8819,Butterfly Walk Shopping Centre,Camberwell Green,London,,SE5 8RW,Police Station,51.473293,-0.09243
+30,4c48326c1ddec92814b09f32,British transport Police HQ,,Camden Town,,,Police Station,51.540839,-0.139723
+31,d754b164bda848964d83b965,British Transport Police,Camden Rd,London,,NW1 9LS,Police Station,51.540839,-0.139723
+32,5c7d956a93d242a30c4a78d2,British Transport Police,25 Camden Rd,London,Camden Town,NW1 9LN,Police Station,51.540727,-0.139791
+33,88708385ccc14a71e926820a,Greenland Road,"Snt Base, 12 Greenland Rd",London,,NW1 0AY,Police Station,51.538236,-0.141031
+34,849de6ec0b3d47e223161f42,British Transport Police Authority,74-80 Camden St,London,Camden Town,NW1 0EG,Police Station,51.538226,-0.137738
+35,4bcef8e2fb84c9b6728e243e,Canning Town London Underground and DLR Station,Silvertown Way,London,,E16 1DQ,Metro Station,51.514057,0.008084
+36,4ad03fa4f964a520c4d720e3,Embankment London Underground Station,Villiers St,London,,WC2N 6NS,Metro Station,51.507189,-0.12226
+37,570a7a02498e9e882ebfbcab,Hidden London Charing Cross,Exit 3,London,,WC2N 5DR,Metro Station,51.508369,-0.12484
+38,4d344e67306160fcfe2e6b88,Trafalgar Square Police Box,Trafalgar Sq,London,,WC2N 5DN,Police Station,51.507926,-0.127398
+39,4b8592e9f964a5204e6631e3,Charing Cross Police Station,Agar St,London,,WC2N 4JP,Police Station,51.509683,-0.124499
+40,4b3794c26d52451a203c9026,Facewatch,13-14 Buckingham St,London,Strand,WC2N 6DF,Police Station,51.50822,-0.123373
+41,68dd42075371483c493495c2,Defence Police Federation,Main Building Horse Guards Ave,London,Westminster,SW1A 2HB,Police Station,51.505115,-0.126176
+42,523eef8711d2beb0ae6f0468,Met Police Station,,,,,Police Station,51.511567,-0.128207
+43,4ad8ba95f964a520161421e3,Piccadilly Circus London Underground Station,Piccadilly Circus,London,,W1J 9HP,Metro Station,51.509871,-0.134457
+46,4bdd8066d33f2d7f4c0f8b3c,Chingford Police Station,Kings Head Hill,Chingford,Chingford,E4 7EA,Police Station,51.631829,-0.001853
+47,48a9f879a40347a01111066b,Waltham Forest Police,"Chingford Police Station, Kings Head Hill",London,Chingford,E4 7EA,Police Station,51.631329,-0.002159
+48,4c738c2b376da093e04aa9c6,Chiswick Police Station,209-211 Chiswick High Rd,London,Chiswick,W4 2DU,Police Station,51.492167,-0.258203
+49,224ddd3659534985e22b1667,Metropolitan Police Service,205-207 Chiswick High Rd,London,Chiswick,W4 2DU,Police Station,51.492223,-0.258169
+50,156fadad5139485d12c709f9,Metropolitan Police Service,209-211 Chiswick High Rd,London,,,Police Station,51.492481,-0.25698
+51,0e9a8a18c3af48025434c342,Metropolitan Police Service,4 - 5 Clement Ave,London,Clapham,SW4 7TY,Police Station,51.463288,-0.133183
+52,4b865b29f964a520338731e3,Peel Centre,Aerodrome Rd,Barnet,,NW9 5JE,Police Station,51.595262,-0.245394
+55,9308a67b2d224c6bfaed775e,Hornsey Police Station,73 Crouch Hall Rd,London,Hornsey,N8 8HF,Police Station,51.579013,-0.124463
+56,31ca9ccdcfaa43bb81931286,The Collection Point,73 Crouch Hall Rd,London,,N8 8HF,Police Station,51.579821,-0.124521
+57,4ca0a8e68afca093d27d1416,Isle of Dogs Police Station,160-174 Manchester Rd,Isle of Dogs,,E14 3BN,Police Station,51.493603,-0.006683
+58,40c2944618774c8958ed0a44,Metropolitan Police Service,160 Manchester Rd,London,Millwall,E14 3BE,Police Station,51.489543,-0.006779
+59,060ccb742a7545dc955bbbdb,Probation Service,34 Englefield Rd,London,Islington,N1 4EZ,Police Station,51.543004,-0.081962
+61,9060632e773f43caa96e0753,Metropolitan Police,12 Orsman Rd,London,,N1 5QJ,Police Station,51.536469,-0.079439
+62,4bf15cadc9ced13a471081c5,Ealing Police Station,67-69 Uxbridge Rd,Ealing,Ealing,W5 5SJ,Police Station,51.512054,-0.310208
+63,094208b2096840a81179f188,Metropolitan Police Service,67-69 Uxbridge Rd,London,Ealing,W5 5SJ,Police Station,51.512096,-0.310457
+64,4ba096aef964a520667337e3,Empress State Building,Lillie Rd,London,Fulham,SW6 1TR,Police Station,51.48735,-0.199678
+65,4ad1fffcf964a520c7de20e3,West Brompton London Underground and London Overground Station,Old Brompton Rd,London,,SW5 9JX,Metro Station,51.487117,-0.195425
+66,170bd85a822342f7d63a0436,Kenway Road,"Snt Base, 2-4 Kenway Rd",London,,SW5 0RR,Police Station,51.490451,-0.195875
+67,2d8e953cece44206869e229d,East Dulwich Police Station,173 - 183 Lordship Lane,London,East Dulwich,,Police Station,51.45542,-0.0764
+68,da0a1c38ca5d4ccf09a57566,High Road,"Snt Base, 113 High Rd",London,,N2 8AG,Police Station,51.590723,-0.164934
+69,4b0d2f49c9cd4d47231d8ede,Metropolitan Police Service,4 High St South,London,East Ham,E6 6ES,Police Station,51.532202,0.054782
+70,90c98e2a7d0443edd4330d3b,East Ham Police Station,4 High St South,London,Beckton,E6 6ES,Police Station,51.532151,0.054842
+71,16f556047cc64f4cdbc092eb,"Sainsbury, High Street North",2-10 Myrtle Rd,London,,E6 1HU,Police Station,51.534008,0.052865
+72,72c4197b96c24f78e90b4df0,Inner London Crown Court Probation,21 Harper Rd,London,Waterloo,SE1 6AW,Police Station,51.498871,-0.096189
+73,10d205ea66ee48402ee5305c,Metropolitan Police Service,20 Well Hall Rd,London,Eltham,SE9 6SF,Police Station,51.451497,0.052327
+75,4ad9dc27f964a520601b21e3,Old Street London Underground Station,Old St,London,,EC1V 9NR,Metro Station,51.525604,-0.087613
+76,581200f438fad8f4ec684995,Finsbury Park BTP,,,,,Police Station,51.565219,-0.108111
+77,6a59a4f0d4f44b9772a16013,British Transport Police,Wells Terrace,London,,N4 3JU,Police Station,51.565219,-0.108111
+78,f36ed66765c242d4f8ef63f1,Blackstock Road,"Snt Base, 70 Blackstock Rd",London,,N4 2DR,Police Station,51.562831,-0.101224
+79,4ad4b96df964a520e3e820e3,Warren Street Underground Station,Tottenham Ct Rd,London,Camden Town,NW1 2SA,Metro Station,51.524581,-0.138065
+80,4ad80a2cf964a5209d1021e3,Great Portland Street London Underground Station,Euston Rd,London,,W1W 5PP,Metro Station,51.523771,-0.14387
+83,2aa9a759a1bf48eeb6a97583,Directorate of Legal Services Metropolitan Police,65 Woodgrange Rd,London,Forest Gate,E7 0EL,Police Station,51.548816,0.025104
+84,97d225e532dc40e5b8edc39a,Police,"Muswell Hill Police Station, 115, Fortis Green, Muswell Hill",London,Muswell Hill,N2 9HW,Police Station,51.590783,-0.154257
+85,4adce4d3f964a520496221e3,Parsons Green London Underground Station,48 Parsons Green Lane,London,"Hammersmith and Fulham, London, Greater London",SW6 4HJ,Metro Station,51.47532,-0.200871
+86,4ad84286f964a520ee1021e3,Golders Green London Underground Station,North End Rd,London,,NW11 7RN,Metro Station,51.57228,-0.19422
+87,57faf3bdb4c74185cc2e260c,Golders Green Road,61 Golders Green Rd,London,,NW11 8EL,Police Station,51.57231,-0.198238
+88,b0088e4596a04fd5777d6c53,Metropolitan Police Service,61 Golders Green Rd,London,Golders Green,NW11 8EL,Police Station,51.572631,-0.198318
+89,4b7937e0f964a5207cef2ee3,Hackney Service Centre,1 Hillman St,London,Dalston,E8 1DY,Police Station,51.544941,-0.057235
+91,16802f207d39442a3eb133e0,Metropolitan Police Service,398 High Rd,London,Bowes Park,N17 9JA,Police Station,51.590853,-0.069833
+92,4bc720f392b376b032144f3a,Hammersmith Police Station,226 Shepherds Bush Rd,Hammersmith,,W6 7NX,Police Station,51.49459,-0.224134
+93,4acdc287f964a520efcc20e3,Hampstead London Underground Station,Hampstead High St,London,,NW3 1QG,Metro Station,51.556685,-0.178299
+94,563117f0498e6ef13939e769,Highbury & Islington London Underground Station,Holloway Rd,London,,N5 1RA,Metro Station,51.546264,-0.104074
+95,c141e9c2f8a940dd76e9286f,Metropolitan Police Service London,59 Compton Rd,,Highbury and Islington,,Police Station,51.54526,-0.100012
+96,c1683ed0693d4dab7d09e554,Probation Service,53 Holloway Rd,London,Lower Holloway,N7 8JD,Police Station,51.547401,-0.105215
+97,4ad9ba87f964a5208d1a21e3,Chancery Lane London Underground Station,High Holborn,London,,WC1V 6DR,Metro Station,51.518391,-0.111602
+98,4ad58eb4f964a520250321e3,Holborn Police Station,10 Lambs Conduit St,London,Bloomsbury,WC1N 3NR,Police Station,51.520762,-0.11767
+99,4bc3624fb492d13a0caba860,Hornsey Police Station,98 Tottenham Lane,Hornsey,Hornsey,N8 7EJ,Police Station,51.58476,-0.115826
+100,1283fc4564c14b854600c00d,Metropolitan Police Service,98 Tottenham Lane,London,Tottenham,N8 7EJ,Police Station,51.584144,-0.116293
+101,5036b36acc6417d4bcd9a1bc,Kennington Underground Station,Kennington Undeground Station 83 Kennington Park Rd,London,Kennington,SE11 4JQ,Metro Station,51.488269,-0.105565
+102,4be537b3cf200f47dbf9123c,Kensington Police Station,72 Earls Ct Rd,Kensington,Fulham,W8 6EQ,Police Station,51.497342,-0.197832
+103,4b9e6d61f964a520cce236e3,Kentish Town Police Station,12a Holmes Rd,Kentish Town,,NW5 3AE,Police Station,51.549543,-0.142126
+104,6988e5f345b04b0195e51db3,Metropolitan Police - Kentish Town Police Station,Kentish Town Police Station 12A Holmes Rd,London,Kentish Town,NW5 3AE,Police Station,51.549449,-0.141817
+105,1edcee826d0c49eadb80ccb6,Kingsbury Police Station,,Harrow,,,Police Station,51.583773,-0.282739
+106,4b703685f964a520f00b2de3,Waterloo London Underground Station,Waterloo Underground Station Waterloo Station,London,Waterloo,SE1 7LY,Metro Station,51.503175,-0.110783
+107,16693610350a4f10083fc7ad,British Transport Police,Waterloo Railway Station,London,Waterloo,SE1 8SE,Police Station,51.503225,-0.113225
+108,bf03ea1b302949c767dfec3f,British Transport Police Authority,Railway Arch 198 Carlisle Lane,London,Waterloo,SE1 7LH,Police Station,51.497442,-0.115459
+110,4c0e99de5ab6c9b60b09f0fe,Lewisham Police Station,43 Lewisham High St,London,Lewisham,SE13 5JZ,Police Station,51.463607,-0.00987
+111,0520e800610046f65ba8f556,Metropolitan Police,43 Lewisham High St,London,Lewisham,SE13 5JZ,Police Station,51.463872,-0.011171
+112,4ada053af964a5205d1d21e3,Leytonstone London Underground Station,Church Lane,Leytonstone,,E11 1HE,Metro Station,51.568269,0.008228
+113,2ed7df1850df4c88000b9f60,Leytonstone Police Station,"Waltham House, Kirkdale Rd",London,Leytonstone,,Police Station,51.569867,0.010121
+114,14cd1ca4c68f44602a55966f,Metropolitan Police - Waltham House,11 Kirkdale Rd,London,Leytonstone,E11 1HP,Police Station,51.568534,0.009306
+115,4d4bebe8385f8eec772bc814,Marylebone Underground Station,Harewood Row,London,Marylebone,NW1 6JJ,Metro Station,51.522665,-0.163046
+116,4b2d3d66f964a52001d224e3,Edgware Road London Underground Station,Chapel St,London,,NW1 5DH,Metro Station,51.520106,-0.166891
+117,4be1aed68c2bc9b671aa420b,Joe Strummer Subway,,,,,Metro Station,51.520017,-0.169968
+118,4d959659942ba0933fdd3d8c,London Police Jail,,Paddington,,NW 1 5,Police Station,51.519468,-0.167828
+119,555afc33498e35244ae08a04,National Probation Service,1-5 Dorset Close,London,St. Marylebone,NW1 5AN,Police Station,51.5223,-0.160428
+120,4ad36fd0f964a5206ae420e3,Warwick Avenue London Underground Station,Warwick Ave,London,,W9 2PT,Metro Station,51.523168,-0.183628
+121,4b633ba0f964a520646c2ae3,Maida Vale London Underground Station,Elgin Ave,Maida Vale,,W9 1JS,Metro Station,51.529889,-0.185686
+122,126b77c1ecb04eb504b0a19a,Streatham Neighbourhood Police Base,328 Streaham High Rd,London,,SW16 6HH,Police Station,51.426996,-0.13142
+124,4c14bb7da5eb76b0292cc2b7,West End Central Police Station,27 Savile Row,London,Mayfair,W1S 2EX,Police Station,51.511616,-0.141181
+125,d66bef18eacc4dfc4e261063,United Value Services,"16 HANOVER SQUARE, Mayfair",London,,W1S 1HT,Police Station,51.51439,-0.14435
+126,4c1a69bcc09ed13a324d828e,The Old Police Station,114 Amersham Vale,London,Lewisham,SE14 6LG,Police Station,51.479429,-0.03179
+127,346dc5e284fe4dbe59e881c9,Metropolitan Police Service,116 Amersham Vale,London,New Cross,SE14 6LG,Police Station,51.479424,-0.031884
+128,9fa8a1e7031e4c22254cacef,Friern Barnet Road textile bank,29 Friern Barnet Rd,London,,N11 1NE,Police Station,51.616261,-0.142795
+130,5c45f734dab4b1002ceaae5a,Nine Elms London Underground Station,84 Wandsworth Rd,Nine Elms,,SW8 2LF,Metro Station,51.479818,-0.127997
+131,4e2004a1483b041af1ddbcc4,Clapham Police station,,London,,,Police Station,51.481646,-0.12826
+132,23730742456f4562fd3ab050,Metropolitan Police Service,1516 London Rd,London,Streatham,SW16 4ES,Police Station,51.412572,-0.123803
+133,5f5ebcc4ec894217a5e25d2d,London Road,1342-1344 London Rd,London,,SW16 4DG,Police Station,51.408372,-0.122145
+134,f66f52eb548e474cd3b4cc73,Metropolitan Police Service London,"Royalty Studios, 105 Lancaster Rd",London,North Kensington,W11 1QF,Police Station,51.51651,-0.210297
+135,b1a4d67739d04fa6480745e9,Metropolitan Police - North Woolwich Police Station,Albert Rd,London,Victoria Dock,E16 2JJ,Police Station,51.499909,0.063779
+136,4c5a74a167ac0f4775c9064c,Notting Hill Police Station,99-101 Ladbroke Rd,London,Notting Hill,W11 3PL,Police Station,51.50867,-0.203235
+137,6034771415de4304a426565a,Metropolitan Police Service,101 Ladbroke Rd,London,Notting Hill,W11 3PL,Police Station,51.50867,-0.203235
+138,fc2982793cac4107aba16b46,British Transport Police,"E Block Macmillan House, Westminster",London,Little Venice,W2 1FT,Police Station,51.517522,-0.17707
+140,4c1f8fc5b306c928889a68b7,Peckham Police Station,177 Peckham High St,Peckham,Peckham,SE15 5SL,Police Station,51.474122,-0.065028
+142,6c07e803ba9445dffbf8e60a,Poplar Police Office,2 Market Way,London,,E14 6AH,Police Station,51.513118,-0.0151
+144,cdf35279387f4e0f76ffaa32,Metropolitan Police Service,230-232 Putney Bridge Rd,London,Putney,SW15 2PD,Police Station,51.464196,-0.213156
+145,1adffe76bc6e4b6e1c0add5f,Police Brent,"Kilburn Police Station, 38, Salusbury Rd",London,,NW6 6LT,Police Station,51.534718,-0.205115
+146,bebcd50dd1b840237695262a,Kilburn Police Station,38 Salusbury Rd,London,Kilburn,NW6 6LT,Police Station,51.534778,-0.204987
+147,e5380651f17743b652646922,Metropolitan Police Service,38 Salusbury Rd,London,Kilburn,NW6 6NN,Police Station,51.534936,-0.205074
+148,0fcec0691ea94dad0d8810ed,Alliance House,"Snt Base, Alliance House, Prince Georges Ave",London,,SW20 8BH,Police Station,51.408352,-0.225899
+149,ee928064299743020f1c91d9,Metropolitan Police Service,117 Danebury Ave,London,Roehampton,SW15 4DH,Police Station,51.449844,-0.244077
+150,5096af64e4b08ccc28aa4a07,Shacklewell Lane,"Snt Base, 17-19 Shacklewell Lane",London,,E8 2DA,Police Station,51.551068,-0.073474
+151,50ec6e65e4b0eb969158c301,St George's Town Hall,236 Cable St,London,,E1 0BL,Police Station,51.510978,-0.058609
+152,4ace22e1f964a52099ce20e3,Shepherd's Bush London Underground Station,Holland Park Roundabout,London,,W12 8ND,Metro Station,51.504759,-0.218521
+153,4bacbd60f964a52065083be3,Shepherd's Bush Police Station,252 Uxbridge Rd,London,,W12 7JA,Police Station,51.506201,-0.229279
+154,4b647b21f964a520afb62ae3,Goldhawk Road London Underground Station,Goldhawk Rd,London,,W12 8EG,Metro Station,51.502091,-0.226916
+155,85185aa032364e8c6622bd7b,Metropolitan Police Service,253-258 Uxbridge Rd,London,,W12 7JB,Police Station,51.506197,-0.229374
+157,4ace3173f964a520f9ce20e3,Oxford Circus London Underground Station,235 Oxford St,London,,W1R 1AB,Metro Station,51.515223,-0.141554
+158,3e02a53a93194e16b40e0d7f,Metropolitan Police Service,2 Lucan Pl,London,Chelsea,SW3 3PB,Police Station,51.492574,-0.167853
+159,4c3b4505d94dc9b6d783ffe7,South Norwood Police Station,11 Oliver Grove,Croydon,,SE25 6ED,Police Station,51.398571,-0.078018
+160,dca04fee0abc456fab3d6d19,Police,"11 Oliver Grove, South Norwood",London,,SE25 6ED,Police Station,51.398354,-0.076871
+161,2f013577d56b4465fd9635d4,British Transport Police,"Norwood Junction Station, Platform 6",London,,SE25 5AG,Police Station,51.397336,-0.075479
+162,4ad83279f964a520dd1021e3,South Wimbledon London Underground Station,Merton High St,London,South Wimbledon,SW19 1DE,Metro Station,51.415412,-0.192322
+163,4b24f1a2f964a520ab6a24e3,South Woodford Underground Station,George Lane,Church End,Woodford,E18 1JJ,Metro Station,51.591767,0.027551
+164,4bd6438a5631c9b621b5a530,Metropolitan Police Service,333 Bromley Rd,Catford,,SE6 2RJ,Police Station,51.429206,-0.01454
+165,571243d7498e057aabe7f94a,Brick Lane Police Station,25 Brick Lane,London,,E1 6PU,Police Station,51.518128,-0.071376
+167,f197d638826844120652d56d,Metropolitan Police Service,25 Brick Lane,London,Spitalfields,E1 6PU,Police Station,51.518128,-0.071376
+171,4d96414e744f3704efa4b557,Chelsea Police Station,2 Lucan Pl,Kensington,Belgravia,SW3 3PB,Police Station,51.491989,-0.166468
+173,39a6a15a8e9f47c91cd0e596,British Transport Police,15 Tavistock Pl,London,Bloomsbury,WC1H 9SY,Police Station,51.525883,-0.125089
+174,4ace28a3f964a520c7ce20e3,Stockwell London Underground Station,Clapham Rd,Stockwell,Stockwell,SW9 9AE,Metro Station,51.4706983,-0.1246928
+175,c7e4e0361d1a4d666906b284,Carpenters Road Police Office,Carpenters Rd,London,,E15 2JL,Police Station,51.537574,-0.005029
+176,4d9c67d8baae548166d2d964,Streatham Police Station,101 Streatham High Rd,London,Streatham,SW16 1HJ,Police Station,51.430232,-0.129367
+178,4ee378fdf790897ecf703288,Rotherhithe Police Station,,,,,Police Station,51.496151,-0.050521
+179,ad94e4a9a626418892998ca8,Police Rotherhithe Metropolitan Police Stations A-Z,Lower Rd,London,,SE16 2XQ,Police Station,51.495714,-0.051794
+180,8898cb2bb4a94322f2abfd41,Police,99 Lower Rd,London,Surrey Quays,SE16 2XQ,Police Station,51.496048,-0.051591
+181,61a1f5b46929489d877b7ce9,Metropolitan Police,88 Ave Rd,London,,NW3 3HA,Police Station,51.542425,-0.173216
+185,4b9bed0df964a520a63636e3,Tooting Broadway Underground Station,Tooting High St,Tooting,,SW17 0SU,Metro Station,51.427619,-0.167797
+187,fbcb4af4e4254f2e035373f3,Tuffnell Park LT station,Fortress Rd,London,,N19 5QB,Police Station,51.556528,-0.138427
+188,f9e509a40aef469627cfcd54,National Crime Agency,,London,,,Police Station,51.490068,-0.12049
+189,c2d7642d776d4bf536dc1b27,Metropolitan Police Service,191-193 High St,London,Walthamstow,E17 7BX,Police Station,51.583888,-0.024206
+190,4cac5b2397c8a1cd07c39fa5,Walworth Police Station,12-28 Manor Pl,East Walworth,,SE17 3BB,Police Station,51.489353,-0.097309
+191,4c35938a3896e21e9467ed90,Wandsworth Police Station,146 Wandsworth High St,London,,SW18 4JJ,Police Station,51.457308,-0.198476
+192,cf5f678147544ba09dbce5d3,Metropolitan Police Service,"Wanstead Police Station, Spratt Hall Rd",London,Leytonstone,E11 2RQ,Police Station,51.576526,0.023724
+196,523fd32f11d20820b5c3529b,British Transport Police,Alan Hocken Way,Greater London,,E15 3AT,Police Station,51.529172,0.005226
+197,4c1f76d6e923ef3bbfbe4e54,West Ham DLR Station,Manor Rd,London,Stratford,E15 3BN,Metro Station,51.527521,0.004584
+198,bf11c3aacc2846150bba6ceb,Police Knowledge,5 Exhibition House Addison Bridge Pl,London,Kensington,W14 8XP,Police Station,51.494688,-0.205943
+199,982e4cb37cef42b889a07489,Metropolitan Police Service,9 High St,West Wickham,New Addington,BR4 0LP,Police Station,51.3757,-0.015376
+200,a79ace3cb4bd4f3e4373f801,Metropolitan Police Service,11 Combedale Rd,London,Greenwich,SE10 0LQ,Police Station,51.485717,0.017421
+201,582633c87a4d7f479e83ceb4,New Scotland Yard,35 Victoria Embankment,London,,SW1A 2JL,Police Station,51.502883,-0.124145
+202,96db98b1b4134aff0fdac93a,Metropolitan Police Service,"Whitehall Police Station, Victoria Embankment",London,Whitehall,SW1A 2JL,Police Station,51.502716,-0.124247
+203,1af18061c9ee46a95ec7f424,Metropolitan Police Authority,10 Dean Farrar St,London,,SW1H 0NY,Police Station,51.499212,-0.132144
+204,3ffe0cbb74c84b2dedfa7777,British Transport Police London Underground Area,"Westside Offices, Kings Cross Railway Station, Kings Cross",London,,SW1H 0BD,Police Station,51.499824,-0.132963
+205,fd31872f48a143f0fecf850a,Metropolitan Police,"New Scotland Yard, 8-10 Broadway",London,Westminster,SW1H 0BG,Police Station,51.498681,-0.133108
+206,50d5b16b498ee28291385691,Whetstone Police Station,,,,,Police Station,51.627913,-0.174411
+207,23f8dc2718c140030b13a004,Metropolitan Police Service,1170 High Rd,London,Whetstone,N20 0LW,Police Station,51.627588,-0.174426
+208,4b55f415f964a52074f827e3,Wood Lane London Underground Station,Wood Lane,London,,W12 7DS,Metro Station,51.509909,-0.224101
+209,4c5dd7c62815c9288d15b667,Wimbledon Police Station,15-23 Queens Rd,London,,SW19 8NN,Police Station,51.421168,-0.203522
+210,8bc1f497d2dd4d665bbc2e7d,Metropolitan Police Service,15 Queens Rd,London,Wimbledon,SW19 8NN,Police Station,51.421048,-0.203777
+211,a78f54bca2d2436045336255,Fishmongers Arms Front Counter,"Fishmongers Arms, 287 High Rd",London,,N22 8HU,Police Station,51.600925,-0.11221
