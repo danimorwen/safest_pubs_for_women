@@ -7,61 +7,33 @@ from bs4 import BeautifulSoup
 from geopy.geocoders import Nominatim
 
 
-# Web Scraping for London Neighborhoods
+# Web Scraping for London Boroughs
 
-response = requests.get(
-    "https://en.wikipedia.org/wiki/List_of_areas_of_London#List_of_districts_and_neighbourhoods_of_London"
-)
+response = requests.get("https://directory.londoncouncils.gov.uk/")
 
 soup = BeautifulSoup(response.text, "html.parser")
-
-london_table = soup.find("table", {"class": "wikitable"})
+london_table = soup.find("table", {"class": "table"})
 
 london_df = pd.read_html(str(london_table))
 london_df = pd.DataFrame(london_df[0])
 
 print(london_df.head())
-print(london_df.columns.tolist())
 
-london_df.rename(
-    columns={
-        "Location": "location",
-        "London\xa0borough": "borough",
-        "Post town": "town",
-        "Postcode\xa0district": "post_code",
-    },
-    inplace=True,
-)
+london_df.rename(columns={"Authority": "borough"}, inplace=True)
 
-city_df = london_df[london_df["town"] == "LONDON"]
+print(london_df["borough"].unique())
 
-city_df = city_df.drop(columns=["Dial\xa0code", "OS grid ref"])
+london_df[
+    (london_df["borough"] != "City of London Corporation")
+    & (london_df["borough"] != "City of Westminster")
+] = london_df["borough"].str.extract("^.B.(.*)")
 
-print(city_df.head())
+london_df[london_df["borough"] == "City of London Corporation"] = "City of London"
 
-print(city_df["location"].unique())
+london_boroughs = london_df["borough"].tolist()
+print(london_boroughs)
 
-# rename neighborhoods with multiple names to a single name
-city_df[city_df["location"] == "Bromley (also Bromley-by-Bow)"] = "Bromley"
-city_df[city_df["location"] == "Marylebone (also St Marylebone)"] = "Marylebone"
-city_df[
-    city_df["location"] == "Sydenham (also Lower Sydenham, Upper Sydenham)"
-] = "Sydenham"
-
-# create London neighborhood list
-def get_neighborhood_list():
-    neighborhood_list = []
-    for neighborhood in city_df["location"]:
-        if neighborhood in neighborhood_list:
-            continue
-        else:
-            neighborhood_list.append(neighborhood)
-    return neighborhood_list
-
-
-london_neighborhoods = get_neighborhood_list()
-
-# get latitude and longitude for each listed neighborhood
+# get latitude and longitude for each listed borough
 geolocator = Nominatim(user_agent="women_safety")
 
 
@@ -76,16 +48,12 @@ def get_geocodes(neighborhood_list):
     return coordinates_dict
 
 
-coordinates = get_geocodes(london_neighborhoods)
-
-# delete neighborhood without coordinates
-del coordinates["Somerstown"]
-
+coordinates = get_geocodes(london_boroughs)
 
 # Collecting pubs data from Foursquare API
 
 pubs_category = "13018"
-police_metro_categories = "19046,12072"
+police_category = "12072"
 
 # make request to fetch venues data from Foursquare API
 def make_request(url):
@@ -161,13 +129,13 @@ df.to_csv("raw-london-pubs.csv")
 # Collecting Subway and Police Data from Foursquare API
 
 # collecting Police and Metro data
-police_metro_data = get_venues_data(police_metro_categories)
-print(len(police_metro_data))
+police_data = get_venues_data(police_category)
+print(len(police_data))
 
 # transform flattened list of police and metro venues data into pandas dataframe
-police_metro_json = parse_json_list(police_metro_data)
-print(len(police_metro_json))
-df2 = pd.DataFrame(police_metro_json)
+police_json = parse_json_list(police_data)
+print(len(police_json))
+df2 = pd.DataFrame(police_json)
 print(df2.head())
 
 # check for duplicated venues data
@@ -178,13 +146,6 @@ df2.to_csv("raw-london-police-station-data.csv")
 
 
 # Venues detailed data from Foursquare API
-
-# create a list with all Foursquare Ids of the pubs collected
-id_list = []
-for id in df.fsq_id:
-    id_list.append(id)
-
-print(id_list)
 
 # get rating, popularity and price range data of given venues from Foursquare API
 def get_detailed_data(dataframe):
