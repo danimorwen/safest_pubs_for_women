@@ -34,7 +34,7 @@ underground_df.rename(
 )
 print(underground_df.head())
 
-# Find row without latitude correct data and assign the first value
+# Find row with uncertained latitude data and assign the first value
 underground_df[underground_df["latitude"] == "51.49787 +/- 0.000011 (from 3 readings)"]
 underground_df.loc[43, ["latitude", "longitude"]] = ["51.49787", "-0.04967"]
 print(underground_df.loc[43])
