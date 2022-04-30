@@ -19,7 +19,7 @@ crimes_df.dropna(subset=["Longitude", "Latitude"], inplace=True)
 
 # Check the updated dataframe
 print(crimes_df.info())
-print(df.head())
+print(crimes_df.head())
 
 # save dataframe into csv file
 crimes_df.to_csv("raw_london_sexual_crimes.csv")

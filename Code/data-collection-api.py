@@ -3,6 +3,7 @@ import requests
 import re
 import time
 
+from decouple import config
 from bs4 import BeautifulSoup
 from geopy.geocoders import Nominatim
 
@@ -50,14 +51,16 @@ def get_geocodes(neighborhood_list):
 
 coordinates = get_geocodes(london_boroughs)
 
-# Collecting pubs data from Foursquare API
+# Collecting data from Foursquare API
 
+# Foursquare's categories of interest
 pubs_category = "13018"
 police_category = "12072"
 
 # make request to fetch venues data from Foursquare API
 def make_request(url):
-    headers = {"Accept": "application/json", "Authorization": "password"}
+    token = config("TOKEN")
+    headers = {"Accept": "application/json", "Authorization": f"{token}"}
     response = requests.request("GET", url, headers=headers)
     return response
 
@@ -88,7 +91,7 @@ def get_nearby_venues_data(coordinate, categories):
     return json_list
 
 
-# get venues data of given categories for all the coordinates of London's neighborhoods
+# get venues data of given categories for all the coordinates of London's boroughs
 def get_venues_data(categories):
     venues_data = []
     for coordinate in coordinates.values():
@@ -115,18 +118,16 @@ def parse_json_list(raw_venues_data):
 # transform flattened list of pubs venues data into pandas dataframe
 list_pubs = parse_json_list(pubs_venues_data)
 print(len(list_pubs))
-df = pd.DataFrame(list_pubs)
+pubs_df = pd.DataFrame(list_pubs)
 
-print(df.head())
-
-# check for duplicated venues data
-print(df.fsq_id.duplicated().value_counts())
+print(pubs_df.head())
+print(pubs_df.shape)
 
 # save dataframe into csv file
-df.to_csv("raw-london-pubs.csv")
+pubs_df.to_csv("raw-london-pubs.csv")
 
 
-# Collecting Subway and Police Data from Foursquare API
+# Collecting Police Data from Foursquare API
 
 # collecting Police and Metro data
 police_data = get_venues_data(police_category)
@@ -135,14 +136,11 @@ print(len(police_data))
 # transform flattened list of police and metro venues data into pandas dataframe
 police_json = parse_json_list(police_data)
 print(len(police_json))
-df2 = pd.DataFrame(police_json)
-print(df2.head())
-
-# check for duplicated venues data
-print(df2.fsq_id.duplicated().value_counts())
+police_df = pd.DataFrame(police_json)
+print(police_df.head())
 
 # save dataframe into csv file
-df2.to_csv("raw-london-police-station-data.csv")
+police_df.to_csv("raw-london-police-station-data.csv")
 
 
 # Venues detailed data from Foursquare API
@@ -150,10 +148,11 @@ df2.to_csv("raw-london-police-station-data.csv")
 # get rating, popularity and price range data of given venues from Foursquare API
 def get_detailed_data(dataframe):
     json_list = []
+    token = config("TOKEN")
     for id in dataframe.fsq_id:
         url = f"https://api.foursquare.com/v3/places/{id}?fields=fsq_id%2Crating%2Cpopularity%2Cprice"
 
-        headers = {"Accept": "application/json", "Authorization": "password"}
+        headers = {"Accept": "application/json", "Authorization": f"{token}"}
 
         response = requests.request("GET", url, headers=headers)
         json_file = response.json()
@@ -163,7 +162,7 @@ def get_detailed_data(dataframe):
 
 
 # collection pubs detailed data
-json_list = get_detailed_data(df)
+json_list = get_detailed_data(pubs_df)
 print(len(json_list))
 
 # return flattened list of venues detailed data
@@ -174,8 +173,8 @@ for json in json_list:
 print(list_of_venues)
 
 # transform flattened list of pubs detailed data into pandas dataframe
-df3 = pd.DataFrame(list_of_venues)
-print(df3.head())
+pubs_detailed_df = pd.DataFrame(list_of_venues)
+print(pubs_detailed_df.head())
 
 # save dataframe into csv file
-df3.to_csv("raw-london-pubs-detailed-data.csv")
+pubs_detailed_df.to_csv("raw-london-pubs-detailed-data.csv")
