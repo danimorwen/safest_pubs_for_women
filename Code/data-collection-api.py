@@ -76,7 +76,7 @@ def get_next_url(response):
 # get venues data from a given coordinate for the given categories
 def get_nearby_venues_data(coordinate, categories):
     json_list = []
-    url = f"https://api.foursquare.com/v3/places/search?ll={coordinate}&radius=500&categories={categories}&fields=fsq_id%2Cname%2Cgeocodes%2Clocation%2Ccategories&limit=50"
+    url = f"https://api.foursquare.com/v3/places/search?ll={coordinate}&radius=3000&categories={categories}&fields=fsq_id%2Cname%2Cgeocodes%2Clocation%2Ccategories&limit=50"
 
     while url != None:
         response = make_request(url)
