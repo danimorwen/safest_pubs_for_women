@@ -11,8 +11,8 @@ London is well-known for its pubs. With more than 3500 pubs in the city, it can 
 ## Metrics
 
 * To predict good and safer pubs for women in London.
-* Distance between pubs and subway and police stations, number of crimes within a radius of 500m, price range, user rating, popularity. 
-* To find pubs that are at least 500m from a tube station and a police station, have an average or lower number of crimes in a radius of 500m, are popular, have a rating about the average or higher and affordable prices.
+* Distance between pubs and subway and police stations, number of crimes within a radius of 500m, user rating, popularity. 
+* To find pubs that are at least 500m from a tube station and a police station, have an average or lower number of crimes in a radius of 500m, are popular, have a rating about the average or higher.
 
 ## Plan
 
